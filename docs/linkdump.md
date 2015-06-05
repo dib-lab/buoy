@@ -48,6 +48,7 @@
     - S3 supports torrents https://news.ycombinator.com/item?id=9563109
     - http://www.libtorrent.org/python_binding.html
     - SyncThing? https://github.com/syncthing/syncthing
+    - GitTorrent: https://github.com/cjb/GitTorrent
 - Research data management: https://github.com/pyrdm/pyrdm http://openresearchsoftware.metajnl.com/article/view/jors.bj/79
 - Transitive credit: http://arxiv.org/abs/1407.5117
 - Great link-dump about shared colaboration with IPython: https://groups.google.com/forum/#!msg/jupyter/oe52-F0Bnuc/Xn9ZesCtkWQJ
