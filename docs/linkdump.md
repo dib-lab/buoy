@@ -1,0 +1,54 @@
+# Buoy link dump
+
+[Luiz] I collected these over time, maybe I should write down some contextualization...
+
+- Big file version tracking
+  - http://blogs.atlassian.com/2014/05/handle-big-repositories-git/
+  - https://github.com/bup/bup
+  - https://github.com/jedbrown/git-fat
+  - https://git-annex.branchable.com/walkthrough/#index2h2
+  - http://ipfs.io/
+  - http://datalad.org/
+  - http://endot.org/2013/01/04/managing-backups-with-git-annex/
+  - http://nbviewer.ipython.org/github/jhamrick/git-annex-tutorial/blob/master/Tutorial%20on%20git-annex.ipynb
+  - https://www.globus.org/genomics/
+- DB
+  - Making Non-Distributed Databases, Distributed 
+    - http://techblog.netflix.com/2014/11/introducing-dynomite.html
+  - http://cognitect.com/datomic
+  - https://github.com/google/cayley
+  - A distributed, embedded, graph database engine (JS) https://github.com/amark/gun
+- Privacy
+  - http://googleresearch.blogspot.com/2014/10/learning-statistics-with-privacy-aided.html?m=1
+  - http://onlinelibrary.wiley.com/enhanced/doi/10.1002/bltj.21643/#sec1-5
+  - http://research.neustar.biz/2014/09/15/riding-with-the-stars-passenger-privacy-in-the-nyc-taxicab-dataset/
+  - http://software-carpentry.org/blog/2014/11/how-to-manage-confidential-data.html
+- Performance tracking/tuning
+  - http://www.slideshare.net/brendangregg/performance-tuning-ec2-instances
+- Architecture
+  - Mesos
+    - http://mesos.apache.org/documentation/latest/mesos-architecture/
+    - https://mesosphere.com/learn/
+  - https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e
+  - http://dtrace.org/blogs/bmc/2014/11/03/smartdatacenter-and-manta-are-now-open-source/
+  - meshnets: http://makezine.com/2014/11/26/how-meshnets-are-changing-the-face-of-the-web/
+  - Microservices: http://highscalability.com/blog/2014/10/27/microservices-in-production-the-good-the-bad-the-it-works.html
+  - Twister: http://twister.net.co/
+    - Distributed P2P microblogging
+    - bittorrent + bitcoin
+  - API
+    - http://agaveapi.co/
+    -  http://www.cytoscape.org/ (primary visualization, some overlap for query API?)
+      - http://nbviewer.ipython.org/gist/keiono/bd6ee462b5d5c152eb02
+      - http://www.slideshare.net/keiono/cytoscape-now-and-future
+  - Coordination
+    - https://julien.danjou.info/blog/2014/python-distributed-membership-lock-with-tooz
+    - https://github.com/stackforge/tooz
+  - File sharing
+    - S3 supports torrents https://news.ycombinator.com/item?id=9563109
+    - http://www.libtorrent.org/python_binding.html
+    - SyncThing? https://github.com/syncthing/syncthing
+- Research data management: https://github.com/pyrdm/pyrdm http://openresearchsoftware.metajnl.com/article/view/jors.bj/79
+- Transitive credit: http://arxiv.org/abs/1407.5117
+- Great link-dump about shared colaboration with IPython: https://groups.google.com/forum/#!msg/jupyter/oe52-F0Bnuc/Xn9ZesCtkWQJ
+- Computer science of bitcoin: http://bitstein.org/blog/nick-szabo-the-computer-science-of-crypto-currency/
