@@ -6,15 +6,15 @@
 
 * start from an SRA sample -> find assemblies or matches to that
 
-* chain to new analyses (‘find lisa’s latest reassembly’)
+* chain to new analyses of same dataset (‘find lisa’s latest reassembly’)
 
-* metagenome breakdown/protein stuff
+* metagenome breakdown based on protein  
 
 * find things that you could/should co-assemble (DNA overlap)
 
 * contamination analysis of supposedly pure samples (“give me the first non-dog match”)
 
-* one-stop-shop for searching all the archives
+* one-stop-shop for searching all the archives 
 
 * grey and dark data indexing and search and estimation
 
@@ -24,6 +24,6 @@
 
 * surveillance mode of the SRA
 
-* estimate size of dark data space
+* estimate size of dark data space based on searches
 
 * upload 1m reads => sig
